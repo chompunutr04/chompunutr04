@@ -5,7 +5,7 @@ IT year 4th Student — Focus on study programming.
 -------------------------------------------------
 
 * 🌍  I'm based in Chonburi, Thailand
-* 🖥️  See my portfolio at [My Port](https://angsila.cs.buu.ac.th/~65160029/portfolio.html)
+* 🖥️  See my portfolio at [My Port](https://chompunutr04.github.io/portfolio/)
 * ✉️  You can contact me at [chompunutr04@gmail.com](mailto:chompunutr04@gmail.com)
 
 <p align="left">
