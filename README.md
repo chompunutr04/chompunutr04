@@ -20,5 +20,4 @@ I’m ready to learn new things, continue practicing my skills, and never stop d
 
 ### Badges
 
-<b>My GitHub Stats</b>
 <a href="https://github.com/chompunutr04" align="left"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chompunutr04&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
